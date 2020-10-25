@@ -1,0 +1,15 @@
+{
+  "name": "scraptor",
+  "version": "1.0.0",
+  "description": "Scraping websites, making easy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "typescript": "^4.0.3"
+  }
+}
