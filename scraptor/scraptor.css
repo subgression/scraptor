@@ -1,0 +1,36 @@
+#scraptor {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+}
+
+#scraptor h1 {
+    color: white;
+    font-size: 5em;
+}
+
+#scraptor h4 {
+    color: white;
+    font-size: 2em;
+}
+
+
+#scraptor input {
+    width: 90% !important;
+}
+
+#scraptor button {
+    margin: 15px;
+}
+
+/* Scraptor website content */
+#scraptor-frame {
+    display: flex;
+    align-self: center;
+    width: -webkit-fill-available;
+    height: 1000px;
+    border: 0px;
+}

@@ -1,1 +1,1 @@
-let scraptorInstance = new Scraptor('scraptor');
+let scraptorInstance = new Scraptor('scraptor', 'scraptor-frame');
